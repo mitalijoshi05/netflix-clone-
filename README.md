@@ -1,2 +1,2 @@
 # netflix-clone
-The netfkix clone project for my first virtual internship of bharat intern.
+The netflix clone project for my first virtual internship of bharat intern.
